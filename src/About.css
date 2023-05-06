@@ -1,0 +1,21 @@
+.diva1{
+    float: left;
+}
+.diva2{
+    float: right;
+    margin-right: 350px;
+}
+.diva3{
+    float: left;
+    margin-right: 550px;
+}
+.diva4{
+    float: right;
+    margin-right: 350px;
+}
+.k{
+}
+.u{
+    color: blue;
+    background-color: aqua;
+}
